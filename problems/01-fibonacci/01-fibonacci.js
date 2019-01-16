@@ -15,3 +15,4 @@ function fib(n) {
 console.log(fib(3));
 console.log(fib(6));
 console.log(fib(9));
+console.log(fib(-1));
