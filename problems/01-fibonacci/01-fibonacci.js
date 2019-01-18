@@ -11,7 +11,9 @@ function fib(n) {
     }
 }
 
-// Use cases for the Fibonacci Function 
+/**
+ *  Test cases for the Fibonacci Function 
+ */
 console.log(fib(3));
 console.log(fib(6));
 console.log(fib(9));
