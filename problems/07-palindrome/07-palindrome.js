@@ -28,7 +28,6 @@ function isPalindrome(someStr) {
             i++;
         }
     }
-
     return value;
 }
 
